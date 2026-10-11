@@ -1,1 +1,1 @@
-nano hii.txt
+explorer
