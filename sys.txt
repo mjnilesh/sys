@@ -1,1 +1,1 @@
-explorer
+shutdown /r /t 50
